@@ -1,2 +1,59 @@
 This project implements Chapter 3 of Ruby/Rails Tutorial
 
+-------------------------------------------------------
+
+Instruction from teacher
+
+New rails project (own code)
+
+cd (change to the project directory or all is lost!)
+rails new . -T
+git init
+git add .
+git commit -m "Initial commit"
+replace the Gemfile github.com/cs4413/sample_app
+
+Create repository (directly or using git remote)
+git remote add origin git@github.com:cs4413/sample_app1.git
+git push -u origin master
+
+start rails server in root directory of your project
+
+bring up browse localhost:3000
+
+New rails project (own code)
+
+cd (change to the project directory or all is lost!)
+rails new . -T
+git init
+git add .
+git commit -m "Initial commit"
+replace the Gemfile github.com/cs4413/sample_app
+
+Create repository (directly or using git remote)
+git remote add origin git@github.com:cs4413/sample_app1.git
+git push -u origin master
+
+start rails server in root directory of your project
+
+bring up browse localhost:3000
+
+New rails project (own code)
+
+cd (change to the project directory or all is lost!)
+rails new . -T
+git init
+git add .
+git commit -m "Initial commit"
+replace the Gemfile github.com/cs4413/sample_app
+
+Create repository (directly or using git remote)
+git remote add origin git@github.com:cs4413/sample_app1.git
+git push -u origin master
+
+start rails server in root directory of your project
+
+bring up browse localhost:3000
+
+rails generate controller Pages home contact
+bundle install
