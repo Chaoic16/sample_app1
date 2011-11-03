@@ -57,3 +57,19 @@ bring up browse localhost:3000
 
 rails generate controller Pages home contact
 bundle install
+
+git add .
+git commit -m "added pages"
+git push
+
+git rm -r spec/views
+git rm -r spec/helpers
+
+gem install rspec
+gem install rspec-rails
+bundle install
+bundle exec rspec
+
+rails generate rspec:install
+
+bundle exec rspec spec/
